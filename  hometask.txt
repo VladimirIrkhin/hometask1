@@ -1,2 +1,26 @@
 к ветке demo по отдельности подмерживаются ветки hat, buttons, boots
 в случае ветки master, ветки boots и buttons сначала смерживаются в одну, только потом подмерживаются к master
+вместе с hat
+
+вижу эти коммиты:
+
+Merge branch 'boots_buttons'
+
+Merge remote-tracking branch 'origin/hat'
+
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+fix readme
+
+dots
+
+README added
+
+boots
+
+heat added
+
+init
+
